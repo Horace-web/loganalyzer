@@ -1,0 +1,6 @@
+2025-07-03 08:22:00 INFO Application lancée
+2025-07-03 08:25:10 WARNING Mémoire presque pleine
+2025-07-03 08:30:45 ERROR Impossible de se connecter à la base
+2025-07-03 08:35:00 INFO Tentative de reconnexion
+2025-07-03 08:40:20 ERROR Echec de la reconnexion
+2025-07-03 08:45:00 INFO Fin du programme

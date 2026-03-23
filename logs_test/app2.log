@@ -1,0 +1,6 @@
+2025-07-04 09:00:00 INFO Démarrage service
+2025-07-04 09:05:30 WARNING Utilisation CPU élevée
+2025-07-04 09:10:00 ERROR Temps de réponse dépassé
+2025-07-04 09:15:00 INFO Service relancé
+2025-07-04 09:20:00 ERROR Accès refusé
+2025-07-04 09:25:00 INFO Tout fonctionne
