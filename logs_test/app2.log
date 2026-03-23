@@ -1,1 +1,20 @@
-2024-04-01 09:00:01 WARN CPU supérieure à 85%
+2026-03-17 10:00:00 INFO Initialisation du worker de traitement d'images
+2026-03-17 10:02:15 INFO Traitement de l'image img_001.jpg terminé
+2026-03-17 10:05:00 ERROR Format d'image non supporté (img_002.bmp)
+2026-03-17 10:10:30 WARN Lenteur détectée sur le disque dur I/O
+2026-03-17 10:15:00 INFO Traitement de l'image img_003.png terminé
+2026-03-17 10:20:00 INFO Synchronisation avec le bucket S3 démarrée
+2026-03-17 10:25:40 ERROR Timeout de l'API S3 AWS lors de l'upload
+2026-03-17 10:30:00 INFO Nouvelle tentative de synchronisation S3...
+2026-03-17 10:31:12 INFO Upload réussi vers le bucket S3
+2026-03-17 10:40:00 WARN Température du processeur élevée (85°C)
+2026-03-17 10:45:00 INFO Optimisation de la file d'attente RabbitMQ
+2026-03-17 10:50:00 ERROR Perte de connexion avec le broker RabbitMQ
+2026-03-17 10:52:00 INFO Reconnexion au broker réussie
+2026-03-17 11:00:00 INFO Démarrage du script d'archivage interne
+2026-03-17 11:05:00 WARN Fichier temporaire non trouvé pour suppression
+2026-03-17 11:10:00 INFO Mise à jour des index de recherche terminée
+2026-03-17 11:15:00 ERROR Échec de la connexion au serveur LDAP
+2026-03-17 11:20:00 INFO Restauration du cache depuis le dernier snapshot
+2026-03-17 11:25:00 WARN Requête annulée par l'utilisateur
+2026-03-17 11:30:00 INFO Worker mis en veille (aucune tâche en attente)

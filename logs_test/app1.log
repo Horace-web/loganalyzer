@@ -1,1 +1,20 @@
-2024-04-01 08:22:30 ERROR Échec connexion LDAP
+2026-03-17 08:00:00 INFO Démarrage du service principal app1
+2026-03-17 08:01:12 INFO Chargement de la configuration terminé
+2026-03-17 08:05:30 WARN Latence réseau détectée (>200ms)
+2026-03-17 08:10:00 INFO Utilisateur admin connecté
+2026-03-17 08:15:22 ERROR Échec de la connexion au serveur LDAP
+2026-03-17 08:16:01 INFO Tentative de reconnexion à la base de données...
+2026-03-17 08:16:05 INFO Reconnexion réussie
+2026-03-17 08:45:00 WARN Espace disque faible sur /var/log (80% utilisé)
+2026-03-17 09:00:00 INFO Exécution du batch de facturation
+2026-03-17 09:05:11 ERROR Fichier de configuration manquant pour le module de paiement
+2026-03-17 09:10:00 INFO Requête API /users traitée en 45ms
+2026-03-17 09:15:00 INFO Requête API /products traitée en 30ms
+2026-03-17 09:20:30 WARN Tentative d'accès non autorisé (IP: 10.0.0.5)
+2026-03-17 09:25:00 INFO Utilisateur john_doe déconnecté
+2026-03-17 09:30:00 ERROR Échec de la connexion au serveur LDAP
+2026-03-17 09:35:10 INFO Service de cache Redis synchronisé
+2026-03-17 09:40:00 INFO Nettoyage des sessions expirées terminé
+2026-03-17 09:45:20 WARN Utilisation mémoire de l'application à 75%
+2026-03-17 09:50:00 ERROR Plantage du thread de traitement asynchrone (Segfault)
+2026-03-17 09:55:00 INFO Redémarrage automatique du thread de traitement
