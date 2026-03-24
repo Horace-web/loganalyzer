@@ -30,6 +30,8 @@ Le but est de faciliter l’analyse  sans le faire manuellement.
 - logs_test/ : contient les fichiers logs de test
 - backups : est le coffre pour l'archive des données
 - rapports : c'est le dossier de sortie pour l'analyse des données
+
+  
 NB: Les dossiers backups et rapports sont créés automatiquement lors de l’exécution du programme 
 
 ## Utilisation
