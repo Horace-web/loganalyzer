@@ -14,14 +14,19 @@ def generer_rapport_json(donnees_analyse, dossier_source):
       - Structure plate : données déjà extraites et aplaties, passées directement
         avec les clés 'total_lignes', 'par_niveau', 'top5_erreurs', 'fichiers_traites'.
 
+    La source affichée dans les métadonnées est extraite en priorité depuis
+    donnees_analyse['parametres']['source'] (valeur fiable injectée par analyser_logs),
+    avec fallback sur le paramètre dossier_source si cette clé est absente
+    (cas d'un appel direct depuis __main__).
+
     Le rapport final est écrit dans le sous-dossier 'rapports/' situé au même niveau
     que ce script, sous le nom rapport_YYYY-MM-DD.json.
 
     Args:
         donnees_analyse (dict): Dictionnaire contenant les résultats de l'analyse,
                                 au format imbriqué (sortie de analyser_logs) ou plat.
-        dossier_source  (str) : Chemin du dossier source analysé, inclus dans les
-                                métadonnées du rapport.
+        dossier_source  (str) : Chemin du dossier source analysé, utilisé comme fallback
+                                dans les métadonnées si 'parametres.source' est absent.
 
     Returns:
         str: Chemin absolu du fichier JSON généré.
@@ -30,6 +35,13 @@ def generer_rapport_json(donnees_analyse, dossier_source):
     date_str = maintenant.strftime("%Y-%m-%d %H:%M:%S")
     nom_utilisateur = os.environ.get('USERNAME') or os.environ.get('USER', 'Inconnu')
     systeme_exploitation = platform.system()
+
+    # Récupération de la vraie source depuis les données si disponible (cas main.py),
+    # sinon fallback sur le paramètre dossier_source (cas appel direct __main__)
+    source_reelle = (
+        donnees_analyse.get("parametres", {}).get("source")
+        or dossier_source
+    )
 
     # Détection de la structure : imbriquée (venant de main.py)
     # ou plate (appelée directement depuis __main__)
@@ -52,7 +64,7 @@ def generer_rapport_json(donnees_analyse, dossier_source):
             "date": date_str,
             "utilisateur": nom_utilisateur,
             "os": systeme_exploitation,
-            "source": os.path.abspath(dossier_source)
+            "source": os.path.abspath(source_reelle)  # source réelle du dossier de logs
         },
         "statistiques": {
             "total_lignes": total_lignes,
@@ -73,7 +85,6 @@ def generer_rapport_json(donnees_analyse, dossier_source):
         json.dump(rapport_final, f, indent=4, ensure_ascii=False)
 
     return chemin_complet
-
 
 if __name__ == "__main__":
     """
