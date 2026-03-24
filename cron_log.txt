@@ -1,0 +1,1246 @@
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34130 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34130 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34130 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34129 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34128 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34121 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34121 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34121 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34121 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34127 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34127 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34127 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34129 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34126 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34118 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34118 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34115 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34113 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34124 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34123 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34121 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34120 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34125 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34124 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34113 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34114 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34112 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34111 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34110 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34107 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34104 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34105 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34079 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34078 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34078 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34077 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34077 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34077 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34075 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34071 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34064 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34064 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34064 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34064 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34065 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34064 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34071 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34072 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34076 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34076 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34066 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34067 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34068 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34068 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34086 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34084 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34085 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34091 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 34091 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33836 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33834 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33833 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33830 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33830 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33829 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33832 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33841 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33840 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33839 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33838 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33831 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33830 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33830 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33829 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33829 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33828 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33828 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Espace disque disponible : 33836 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-24.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-24.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33835 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33835 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33831 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33831 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33831 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33831 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33831 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33830 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33831 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33836 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Source des logs : /mnt/c/Users/LENOVO/loganalyzer/logs_test
+[INFO] Niveau de filtre : ALL
+[OK] Analyse des logs terminée.
+[OK] Rapport JSON généré : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json
+[INFO] Espace disque disponible : 33839 Mo (minimum requis : 100 Mo)
+[INFO] Création de l'archive : backup_2026-03-25.tar.gz
+  + Ajouté : app1.log
+  + Ajouté : app2.log
+  + Ajouté : app3.log
+[ERREUR] Échec de la création de l'archive : [Errno 1] Operation not permitted
+[INFO] Nettoyage des rapports JSON de plus de 30 jours dans : /mnt/c/Users/LENOVO/loganalyzer/rapports
+[INFO] Aucun rapport à supprimer.
+[SUCCES] Pipeline terminé.
+[INFO] Rapport : /mnt/c/Users/LENOVO/loganalyzer/rapports/rapport_2026-03-25.json

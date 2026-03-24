@@ -3,6 +3,22 @@
 ## Description
 Ce projet consiste à analyser des fichiers logs, afficher des statistiques et générer un fichier JSON avec les résultats. Et par la suite, les fichiers logs sont archivés.
 
+## Prérequis et installation
+
+Prérequis :
+
+Python 3.x
+
+Aucun module externe requis 
+
+Système Linux ou WSL pour Cron
+
+Installation :
+git clone https://github.com/Horace-web/loganalyzer
+cd loganalyzer
+
+
+
 ## Objectif
 Le but est de faciliter l’analyse  sans le faire manuellement.
 
@@ -12,6 +28,8 @@ Le but est de faciliter l’analyse  sans le faire manuellement.
 - archiver.py : permet de compresser et sauvegarder les logs
 - main.py : lance tout le programme
 - logs_test/ : contient les fichiers logs de test
+-backups : est le coffre pour l'archive des données
+-rapports : c'est le dossier de sortie pour l'analyse des données 
 
 ## Utilisation
 Pour lancer le programme :
@@ -40,3 +58,12 @@ Après tout ça , la commande prévu pour le projet est :
 Cela signifie que le programme sera exécuté tous les dimanches à 03h00.
 
 Cela permet d’automatiser l’analyse des logs.
+
+ET au niveau de l'archive comme on est sur windows il faut créer un dossier tmp dans son répertoire /c à la racine 
+
+# Répartition
+Horace - Module 1 : Analyse des logs (analyser.py)
+Audrey - Module 2 : Génération JSON (rapport.py) 
+Bryan - Module 3 : Archivage (archiver.py)
+Jeffry - Module 4 : Orchestration (main.py)  
+Junior - QA, Tests et Documentation & Cron (Le rôle qui sauve les points) 
