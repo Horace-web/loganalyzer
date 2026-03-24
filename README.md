@@ -1,72 +1,133 @@
 # LogAnalyzer
 
 ## Description
-Ce projet consiste à analyser des fichiers logs, afficher des statistiques et générer un fichier JSON avec les résultats. Et par la suite, les fichiers logs sont archivés.
 
-## Prérequis et installation
+LogAnalyzer est un outil Python d'analyse automatisée de fichiers logs.
+Il lit les fichiers `.log`, calcule des statistiques par niveau (ERROR, WARN, INFO),
+génère un rapport JSON horodaté, puis archive les logs traités dans une sauvegarde compressée.
+L'objectif est d'automatiser entièrement ce processus sans intervention manuelle.
 
-Prérequis :
+---
 
-Python 3.x
+## Prérequis
 
-Aucun module externe requis 
+- Python 3.10 ou supérieur
+- Aucun module externe requis (uniquement la bibliothèque standard Python)
+- Système Linux ou Windows (WSL requis pour la planification Cron sous Windows)
 
-Système Linux ou windows (WSL pour Cron)
+---
 
-Installation :
+## Installation
+```bash
 git clone https://github.com/Horace-web/loganalyzer
 cd loganalyzer
+```
 
-
-
-## Objectif
-Le but est de faciliter l’analyse  sans le faire manuellement.
+---
 
 ## Structure du projet
-- analyser.py : permet de lire et analyser les fichiers logs
-- rapport.py : permet de créer un fichier JSON avec les résultats
-- archiver.py : permet de compresser et sauvegarder les logs
-- main.py : lance tout le programme
-- logs_test/ : contient les fichiers logs de test
-- backups : est le coffre pour l'archive des données
-- rapports : c'est le dossier de sortie pour l'analyse des données
+```
+loganalyzer/
+├── analyser.py       # Module 1 — Lecture et analyse des fichiers logs
+├── rapport.py        # Module 2 — Génération du rapport JSON
+├── archiver.py       # Module 3 — Archivage et nettoyage
+├── main.py           # Module 4 — Orchestration du pipeline
+├── logs_test/        # Fichiers .log de test
+│   ├── app1.log
+│   ├── app2.log
+│   └── app3.log
+├── rapports/         # Dossier de sortie des rapports JSON (créé automatiquement)
+├── backups/          # Dossier de sortie des archives .tar.gz (créé automatiquement)
+└── README.md
+```
 
-  
-NB: Les dossiers backups et rapports sont créés automatiquement lors de l’exécution du programme 
+> **Note :** Les dossiers `rapports/` et `backups/` sont créés automatiquement
+> au premier lancement du programme.
+
+---
 
 ## Utilisation
-Pour lancer le programme :
+
+### Lancement avec les paramètres par défaut
+```bash
 python main.py
+```
 
-## Planification
+### Lancement avec des paramètres personnalisés
+```bash
+python main.py --source logs_test --niveau ERROR --rapports rapports --backups backups --retention 30
+```
 
-Avant toutes chose normalement cron fonctionne sur linux.
+| Argument      | Description                                      | Valeur par défaut |
+|---------------|--------------------------------------------------|-------------------|
+| `--source`    | Dossier contenant les fichiers `.log`            | `./logs_test`     |
+| `--niveau`    | Niveau de filtrage : `ERROR`, `WARN`, `INFO`, `ALL` | `ALL`          |
+| `--rapports`  | Dossier de sortie des rapports JSON              | `./rapports`      |
+| `--backups`   | Dossier de destination des archives              | `./backups`       |
+| `--retention` | Durée de rétention des rapports en jours         | `30`              |
 
-Pour pouvoir tester cron nous avons  donc :
--Etant sur windows ,utilisé WSL (windows Subsystem for Linux) pour simuler un environnement Linux compatible avec Cron (Commande utilisé : wsl --install -d Ubuntu ).
+---
 
-Après l'installation, nous avons utilisé la commande "wsl" pour lancé Linux ;
-Par la suite accédé au dossier du projet avec la commande : (sur mon pc ) cd /mnt/c/Users/LENOVO/loganalyzer;
+## Planification automatique (Cron)
 
-Ensuite nous avons ouvert l'éditeur Cron avec la commande : crontab -e et choisi l'éditeur nano (option 1);
+La planification via Cron est native sous Linux/macOS.
+Sous Windows, il est nécessaire d'utiliser **WSL (Windows Subsystem for Linux)**.
 
-Ajouter la ligne suivante pour tester le fonctionnement : * * * * * echo "cron ok" >> /mnt/c/Users/LENOVO/loganalyzer/test.txt ;
+### Mise en place de WSL (Windows uniquement)
+```bash
+wsl --install -d Ubuntu
+```
 
-Après quelque minute nous avons vérifier le contenu du fichier avec :cat /mnt/c/Users/LENOVO/loganalyzer/test.txt. Et le fichier test.txt contenait plusieurs lignes "cron ok", ce qui prouve que cron marche 
+Une fois WSL installé, lancer l'environnement Linux :
+```bash
+wsl
+```
 
-Après tout ça , la commande prévu pour le projet est :
+Puis naviguer vers le dossier du projet (adapter le chemin à votre machine) :
+```bash
+cd /mnt/c/Users/LENOVO/loganalyzer
+```
 
+### Configuration de Cron
+
+Ouvrir l'éditeur Cron (choisir l'éditeur `nano` si demandé) :
+```bash
+crontab -e
+```
+
+#### Test de bon fonctionnement
+
+Pour vérifier que Cron est actif, ajouter temporairement cette ligne :
+```
+* * * * * echo "cron ok" >> /mnt/c/Users/LENOVO/loganalyzer/test.txt
+```
+
+Après quelques minutes, vérifier le fichier généré :
+```bash
+cat /mnt/c/Users/LENOVO/loganalyzer/test.txt
+```
+
+La présence de plusieurs lignes `cron ok` confirme que Cron fonctionne correctement.
+
+#### Ligne Cron finale du projet
+```
 0 3 * * 0 python3 /mnt/c/Users/LENOVO/loganalyzer/main.py
+```
 
-Cela signifie que le programme sera exécuté tous les dimanches à 03h00.
+Cette ligne exécute automatiquement le pipeline **tous les dimanches à 03h00**.
 
-Cela permet d’automatiser l’analyse des logs.
+> **Note Windows :** Le module `archiver.py` utilise `/tmp` comme dossier temporaire
+> pour créer les archives. Sous Windows avec WSL, il faut s'assurer que ce dossier
+> existe ou créer un dossier `tmp` à la racine de votre lecteur `C:\`.
 
-ET au niveau de l'archive comme on est sur windows il faut créer un dossier tmp dans son répertoire /c à la racine 
+---
 
-# Répartition
-Horace - Module 1 : Analyse des logs (analyser.py)
-Audrey - Module 2 : Génération JSON (rapport.py) 
-Bryan - Module 3 : Archivage (archiver.py)
-Jeffry - Module 4 : Orchestration (main.py)  
-Junior - QA, Tests et Documentation & Cron (Le rôle qui sauve les points) 
+## Répartition des tâches
+
+| Membre     | Module                        | Fichier        | Responsabilités principales |
+|------------|-------------------------------|----------------|-----------------------------|
+| **Horace** | Module 1 — Analyse des logs   | `analyser.py`  | Mise en place du dépôt Git et de la structure du projet, définition des contrats de données entre modules, génération des fichiers de logs de test, configuration d'`argparse` (`--source`, `--niveau`), lecture des `.log` avec `glob`, extraction via expressions régulières (`re`), calcul des statistiques (comptage par niveau, top 5 erreurs), récupération des infos système (`os`, `platform`), retour d'un dictionnaire structuré vers `rapport.py` |
+| **Audrey** | Module 2 — Génération JSON    | `rapport.py`   | Transformation du dictionnaire d'analyse en fichier JSON structuré et horodaté, gestion des chemins absolus via `__file__` |
+| **Bryan**  | Module 3 — Archivage          | `archiver.py`  | Compression des logs avec `tarfile`, déplacement de l'archive avec `shutil`, politique de rétention avec `os.path.getmtime`, vérification d'espace disque via `subprocess` |
+| **Jeffry** | Module 4 — Orchestration      | `main.py`      | Chargement dynamique des modules, enchaînement du pipeline, gestion des erreurs avec `try/except`, codes de retour `sys.exit` |
+| **Junior** | QA, Tests et Documentation    | `README.md`    | Génération des fichiers de logs de test, rédaction de la documentation, mise en place et validation de la planification Cron, relecture des docstrings |
