@@ -11,7 +11,7 @@ Python 3.x
 
 Aucun module externe requis 
 
-Système Linux ou WSL pour Cron
+Système Linux ou windows (WSL pour Cron)
 
 Installation :
 git clone https://github.com/Horace-web/loganalyzer
@@ -28,8 +28,9 @@ Le but est de faciliter l’analyse  sans le faire manuellement.
 - archiver.py : permet de compresser et sauvegarder les logs
 - main.py : lance tout le programme
 - logs_test/ : contient les fichiers logs de test
--backups : est le coffre pour l'archive des données
--rapports : c'est le dossier de sortie pour l'analyse des données 
+- backups : est le coffre pour l'archive des données
+- rapports : c'est le dossier de sortie pour l'analyse des données
+NB: Les dossiers backups et rapports sont créés automatiquement lors de l’exécution du programme 
 
 ## Utilisation
 Pour lancer le programme :
