@@ -1,2 +1,5 @@
 rapports/
 __pycache__/
+.venv
+backups/
+
