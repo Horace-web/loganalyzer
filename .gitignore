@@ -1,3 +1,5 @@
+rapports/
+__pycache__/
 .venv
 backups/
-rapports/
+
