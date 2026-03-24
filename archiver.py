@@ -18,7 +18,6 @@ from datetime import datetime
 import platform
 import subprocess
 
-
 # ---------------------------------------------------------------------------
 # 1. Vérification de l'espace disque
 # ---------------------------------------------------------------------------
