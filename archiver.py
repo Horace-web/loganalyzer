@@ -13,9 +13,10 @@ import os
 import tarfile
 import shutil
 import time
-import subprocess
 import argparse
 from datetime import datetime
+import platform
+import subprocess
 
 
 # ---------------------------------------------------------------------------
@@ -25,6 +26,7 @@ from datetime import datetime
 def verifier_espace_disque(dossier: str, espace_min_mo: int = 100) -> bool:
     """
     Vérifie l'espace disque disponible sur la partition du dossier donné.
+    Utilise subprocess avec 'df' sur Linux/macOS et 'wmic' sur Windows.
 
     Args:
         dossier      : Chemin du dossier à contrôler.
@@ -34,17 +36,33 @@ def verifier_espace_disque(dossier: str, espace_min_mo: int = 100) -> bool:
         True si l'espace est suffisant, False sinon.
     """
     try:
-        # Utilisation de subprocess pour appeler 'df' (compatible Linux/macOS)
-        resultat = subprocess.run(
-            ["df", "-m", dossier],          # -m = résultat en Mo
-            capture_output=True,
-            text=True,
-            check=True
-        )
-        lignes = resultat.stdout.strip().splitlines()
-        # La deuxième ligne contient les données : Filesystem  1M-blocks  Used  Available  ...
-        donnees = lignes[1].split()
-        espace_disponible_mo = int(donnees[3])
+        os.makedirs(dossier, exist_ok=True)
+
+        if platform.system() == "Windows":
+            # Sur Windows : wmic retourne l'espace libre en octets
+            lettre_lecteur = os.path.splitdrive(os.path.abspath(dossier))[0]
+            resultat = subprocess.run(
+                ["wmic", "logicaldisk", "where",
+                 f"DeviceID='{lettre_lecteur}'", "get", "FreeSpace"],
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            lignes = [l.strip() for l in resultat.stdout.strip().splitlines() if l.strip()]
+            # lignes[0] = "FreeSpace", lignes[1] = valeur en octets
+            espace_disponible_mo = int(lignes[1]) // (1024 * 1024)
+
+        else:
+            # Sur Linux/macOS : df -m retourne directement en Mo
+            resultat = subprocess.run(
+                ["df", "-m", dossier],
+                capture_output=True,
+                text=True,
+                check=True
+            )
+            lignes = resultat.stdout.strip().splitlines()
+            donnees = lignes[1].split()
+            espace_disponible_mo = int(donnees[3])
 
         print(f"[INFO] Espace disque disponible : {espace_disponible_mo} Mo "
               f"(minimum requis : {espace_min_mo} Mo)")
@@ -56,10 +74,7 @@ def verifier_espace_disque(dossier: str, espace_min_mo: int = 100) -> bool:
 
     except (subprocess.CalledProcessError, IndexError, ValueError) as e:
         print(f"[AVERTISSEMENT] Impossible de vérifier l'espace disque : {e}")
-        # On laisse passer en cas d'erreur de vérification
         return True
-
-
 # ---------------------------------------------------------------------------
 # 2. Création de l'archive .tar.gz
 # ---------------------------------------------------------------------------
