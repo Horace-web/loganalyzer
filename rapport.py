@@ -1,12 +1,31 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
 import json
 import os
 import datetime
 import platform
 
 def generer_rapport_json(donnees_analyse, dossier_source):
+    """
+    Transforme les données d'analyse en un fichier rapport JSON structuré et horodaté.
+    Gère deux formats d'entrée possibles :
+      - Structure imbriquée : telle que retournée par analyser_logs() via main.py,
+        avec une clé 'statistiques' contenant 'total_lignes', 'comptage_niveaux', etc.
+      - Structure plate : données déjà extraites et aplaties, passées directement
+        avec les clés 'total_lignes', 'par_niveau', 'top5_erreurs', 'fichiers_traites'.
+
+    Le rapport final est écrit dans le sous-dossier 'rapports/' situé au même niveau
+    que ce script, sous le nom rapport_YYYY-MM-DD.json.
+
+    Args:
+        donnees_analyse (dict): Dictionnaire contenant les résultats de l'analyse,
+                                au format imbriqué (sortie de analyser_logs) ou plat.
+        dossier_source  (str) : Chemin du dossier source analysé, inclus dans les
+                                métadonnées du rapport.
+
+    Returns:
+        str: Chemin absolu du fichier JSON généré.
+    """
     maintenant = datetime.datetime.now()
     date_str = maintenant.strftime("%Y-%m-%d %H:%M:%S")
     nom_utilisateur = os.environ.get('USERNAME') or os.environ.get('USER', 'Inconnu')
@@ -54,8 +73,16 @@ def generer_rapport_json(donnees_analyse, dossier_source):
         json.dump(rapport_final, f, indent=4, ensure_ascii=False)
 
     return chemin_complet
-# RECOLLE CETTE LIGNE TOUT À GAUCHE SANS ESPACE
+
+
 if __name__ == "__main__":
+    """
+    Point d'entrée pour l'utilisation autonome du module rapport.py.
+    Charge le module analyser, exécute une analyse complète sur le dossier
+    logs_test/ avec le niveau ALL, prépare les données au format plat attendu
+    par generer_rapport_json(), puis génère le rapport et affiche son chemin.
+    Affiche un message d'erreur si une exception survient à n'importe quelle étape.
+    """
     try:
         import analyser
         dossier_source_test = "logs_test/"
@@ -65,10 +92,10 @@ if __name__ == "__main__":
         donnees_pour_audrey = {
             "total_lignes": resultat_brut["statistiques"]["total_lignes"],
             "par_niveau": resultat_brut["statistiques"]["comptage_niveaux"],
-            
+
             # ICI : On récupère directement la liste avec les occurrences d'Horace
-            "top5_erreurs": resultat_brut["statistiques"]["top5_erreurs"], 
-            
+            "top5_erreurs": resultat_brut["statistiques"]["top5_erreurs"],
+
             "fichiers_traites": list(set([e["fichier"] for e in resultat_brut["entrees"]]))
         }
 
@@ -77,5 +104,3 @@ if __name__ == "__main__":
 
     except Exception as e:
         print(f"Erreur : {e}")
-
-        
