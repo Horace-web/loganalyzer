@@ -1,39 +1,69 @@
-# Module 3 — Archivage et Nettoyage (`archiver.py`)
+# LogAnalyzer
 
 ## Description
+Ce projet consiste à analyser des fichiers logs, afficher des statistiques et générer un fichier JSON avec les résultats. Et par la suite, les fichiers logs sont archivés.
 
-Le Module 3 est responsable de l'archivage des fichiers logs traités et du
-nettoyage automatique des anciens rapports JSON.
+## Prérequis et installation
 
-Il effectue les 4 actions suivantes dans l'ordre :
+Prérequis :
 
-1. **Vérifie l'espace disque** disponible sur la machine avant de commencer
-2. **Archive** tous les fichiers `.log` du dossier source dans une archive
-   compressée nommée `backup_YYYY-MM-DD.tar.gz`
-3. **Déplace** l'archive vers le dossier de destination choisi
-4. **Supprime** les rapports JSON dont l'âge dépasse la durée de rétention fixée
+Python 3.x
 
----
+Aucun module externe requis 
 
-## Lancer le module
+Système Linux ou WSL pour Cron
 
-### Commande de base
+Installation :
+git clone https://github.com/Horace-web/loganalyzer
+cd loganalyzer
 
-```bash
-python archiver.py --source ./logs_test --dest ./archives
-```
 
-### Commande complète (avec nettoyage des rapports)
 
-```bash
-python archiver.py --source ./logs_test --dest ./archives --rapports ./rapports --retention 30
-```
+## Objectif
+Le but est de faciliter l’analyse  sans le faire manuellement.
 
-### Arguments
+## Structure du projet
+- analyser.py : permet de lire et analyser les fichiers logs
+- rapport.py : permet de créer un fichier JSON avec les résultats
+- archiver.py : permet de compresser et sauvegarder les logs
+- main.py : lance tout le programme
+- logs_test/ : contient les fichiers logs de test
+-backups : est le coffre pour l'archive des données
+-rapports : c'est le dossier de sortie pour l'analyse des données 
 
-| Argument      | Obligatoire | Description                                      | Défaut |
-|---------------|-------------|--------------------------------------------------|--------|
-| `--source`    | ✅ Oui      | Dossier contenant les fichiers `.log` à archiver | —      |
-| `--dest`      | ✅ Oui      | Dossier de destination pour l'archive `.tar.gz`  | —      |
-| `--rapports`  | ❌ Non      | Dossier des rapports JSON à nettoyer             | None   |
-| `--retention` | ❌ Non      | Durée de rétention des rapports en jours         | 30     |
+## Utilisation
+Pour lancer le programme :
+python main.py
+
+## Planification
+
+Avant toutes chose normalement cron fonctionne sur linux.
+
+Pour pouvoir tester cron nous avons  donc :
+-Etant sur windows ,utilisé WSL (windows Subsystem for Linux) pour simuler un environnement Linux compatible avec Cron (Commande utilisé : wsl --install -d Ubuntu ).
+
+Après l'installation, nous avons utilisé la commande "wsl" pour lancé Linux ;
+Par la suite accédé au dossier du projet avec la commande : (sur mon pc ) cd /mnt/c/Users/LENOVO/loganalyzer;
+
+Ensuite nous avons ouvert l'éditeur Cron avec la commande : crontab -e et choisi l'éditeur nano (option 1);
+
+Ajouter la ligne suivante pour tester le fonctionnement : * * * * * echo "cron ok" >> /mnt/c/Users/LENOVO/loganalyzer/test.txt ;
+
+Après quelque minute nous avons vérifier le contenu du fichier avec :cat /mnt/c/Users/LENOVO/loganalyzer/test.txt. Et le fichier test.txt contenait plusieurs lignes "cron ok", ce qui prouve que cron marche 
+
+Après tout ça , la commande prévu pour le projet est :
+
+0 3 * * 0 python3 /mnt/c/Users/LENOVO/loganalyzer/main.py
+
+Cela signifie que le programme sera exécuté tous les dimanches à 03h00.
+
+Cela permet d’automatiser l’analyse des logs.
+
+ET au niveau de l'archive comme on est sur windows il faut créer un dossier tmp dans son répertoire /c à la racine 
+
+# Répartition
+Horace - Module 1 : Analyse des logs (analyser.py)
+Audrey - Module 2 : Génération JSON (rapport.py) 
+Bryan - Module 3 : Archivage (archiver.py)
+Jeffry - Module 4 : Orchestration (main.py)  
+Junior - QA, Tests et Documentation & Cron (Le rôle qui sauve les points) 
