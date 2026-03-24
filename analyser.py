@@ -9,7 +9,6 @@ from collections import Counter
 
 NIVEAUX_VALIDES = ["ERROR", "WARN", "INFO", "ALL"]
 
-# WARN dans le regex (et non WARNING)
 PATTERN_LOG = re.compile(
     r"(?P<date>\d{4}-\d{2}-\d{2})\s+"
     r"(?P<heure>\d{2}:\d{2}:\d{2})\s+"
